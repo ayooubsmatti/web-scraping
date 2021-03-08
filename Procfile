@@ -1,0 +1,1 @@
+web: gunicorn craigslist_search_optimizer.wsgi
